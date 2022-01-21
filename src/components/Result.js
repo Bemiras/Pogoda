@@ -13,15 +13,15 @@ const Result = props => {
             <React.Fragment>
                 <h3><em>{city}</em></h3>
                 <h4>Aktualny czas: {date}</h4>
-                <h4>Aktualna temperatura: {temp} &#176;C</h4>
-                <h4>Max: {tempMax} &#176;C</h4>
-                <h4>Odczuwalna: {tempFeel} &#176;C</h4>
+                <h4>Temperatura: {temp} &#176;C</h4>
+                <h4>Max temperatura: {tempMax} &#176;C</h4>
+                <h4>Odczuwalna temperatura: {tempFeel} &#176;C</h4>
                 <h4>Widoczność: {visibility}m</h4>
-                <h4>Wilgotność: {humidity} %</h4>
-                <h4>Wschód: {sunriseTime} </h4>
-                <h4>Zachód: {sunsetTime} </h4>
-                <h4>Ciśnienie: {pressure} hPa</h4>
-                <h4>Aktualna siła wiatru: {wind} m/s</h4>
+                <h4>Wilgotność powietrza: {humidity} %</h4>
+                <h4>Wschód słońca: {sunriseTime} </h4>
+                <h4>Zachód słońca: {sunsetTime} </h4>
+                <h4>Ciśnienie atmosferyczne: {pressure} hPa</h4>
+                <h4>Siła wiatru: {wind} m/s</h4>
             </React.Fragment>
         )
     }
