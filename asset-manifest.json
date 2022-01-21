@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Pogoda/static/css/main.6b6365c6.css",
+    "main.js": "/Pogoda/static/js/main.04d0eff8.js",
+    "static/js/787.197a8fac.chunk.js": "/Pogoda/static/js/787.197a8fac.chunk.js",
+    "static/media/background.jpg": "/Pogoda/static/media/background.bb51820517686e08de77.jpg",
+    "index.html": "/Pogoda/index.html",
+    "main.6b6365c6.css.map": "/Pogoda/static/css/main.6b6365c6.css.map",
+    "main.04d0eff8.js.map": "/Pogoda/static/js/main.04d0eff8.js.map",
+    "787.197a8fac.chunk.js.map": "/Pogoda/static/js/787.197a8fac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b6365c6.css",
+    "static/js/main.04d0eff8.js"
+  ]
+}
