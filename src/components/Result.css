@@ -1,16 +1,28 @@
 .result {
-    margin-left: 50px;
     padding-top: 20px;
     border-top: 2px solid #ddd;
-    color: black;
-    text-align: center;
-    height: 80vh;
 }
 
-.result h3, .result h4 {
-    font-weight: bolder;
+.data{
+    color: white;
+    font-weight: bold;
+    margin: auto;
+    text-align: center;
 }
+
+#tableresult{
+    text-align: center;
+    margin: auto;
+    width: auto;
+}
+
+.title{
+    color: gray;
+    font-size: large;
+}
+
 .result em {
     font-weight: bold;
-    font-size: xx-large;
+    font-size: xxx-large;
+    color: black;
 }
