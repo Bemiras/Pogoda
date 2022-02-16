@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.06224be7.css",
-    "main.js": "/static/js/main.087e8856.js",
-    "static/js/787.197a8fac.chunk.js": "/static/js/787.197a8fac.chunk.js",
-    "static/media/backgroundS.jpg": "/static/media/backgroundS.0ce1001cabc2d4a4d2e5.jpg",
-    "index.html": "/index.html",
-    "main.06224be7.css.map": "/static/css/main.06224be7.css.map",
-    "main.087e8856.js.map": "/static/js/main.087e8856.js.map",
-    "787.197a8fac.chunk.js.map": "/static/js/787.197a8fac.chunk.js.map"
+    "main.css": "/Pogoda/static/css/main.d9c2a145.css",
+    "main.js": "/Pogoda/static/js/main.403ecf77.js",
+    "static/js/787.197a8fac.chunk.js": "/Pogoda/static/js/787.197a8fac.chunk.js",
+    "static/media/backgroundS.jpg": "/Pogoda/static/media/backgroundS.0ce1001cabc2d4a4d2e5.jpg",
+    "index.html": "/Pogoda/index.html",
+    "main.d9c2a145.css.map": "/Pogoda/static/css/main.d9c2a145.css.map",
+    "main.403ecf77.js.map": "/Pogoda/static/js/main.403ecf77.js.map",
+    "787.197a8fac.chunk.js.map": "/Pogoda/static/js/787.197a8fac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06224be7.css",
-    "static/js/main.087e8856.js"
+    "static/css/main.d9c2a145.css",
+    "static/js/main.403ecf77.js"
   ]
 }
